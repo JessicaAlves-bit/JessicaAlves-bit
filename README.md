@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Jessica Silva
+# 👋 Olá! Eu sou a Jessica Alves
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
 📊 **Aspirante a Profissional de Dados** e **Desenvolvedora Front-End em formação**  
